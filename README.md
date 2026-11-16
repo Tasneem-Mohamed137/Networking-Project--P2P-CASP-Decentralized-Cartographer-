@@ -1,9 +1,8 @@
 
-==============================================================
+
  CSE361 - Computer Networks - Fall 2026
  Project 1: P2P-CASP (Decentralized Cartographer)
  Phase 1 - Prototype
-==============================================================
 
 TEAM MEMBERS
 ------------
