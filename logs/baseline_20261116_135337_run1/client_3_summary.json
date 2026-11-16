@@ -1,0 +1,17 @@
+{
+  "peer_id": 3,
+  "complete": true,
+  "map_verified": true,
+  "chunks_received": 256,
+  "completion_time_ms": 13511.93,
+  "join_time_ms": 1.75,
+  "mean_rtt_ms": 52.77,
+  "requests_sent": 256,
+  "retransmits": 0,
+  "timeouts": 0,
+  "duplicates": 0,
+  "hash_failures": 0,
+  "malformed": 0,
+  "bytes_sent": 3596,
+  "bytes_received": 19987
+}

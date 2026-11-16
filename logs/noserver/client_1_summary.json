@@ -1,0 +1,17 @@
+{
+  "peer_id": 1,
+  "complete": false,
+  "map_verified": false,
+  "chunks_received": 0,
+  "completion_time_ms": null,
+  "join_time_ms": null,
+  "mean_rtt_ms": null,
+  "requests_sent": 0,
+  "retransmits": 0,
+  "timeouts": 5,
+  "duplicates": 0,
+  "hash_failures": 0,
+  "malformed": 0,
+  "bytes_sent": 60,
+  "bytes_received": 0
+}

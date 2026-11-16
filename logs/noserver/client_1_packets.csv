@@ -1,0 +1,7 @@
+time_iso,epoch_ms,event,direction,msg_type,seq,peer_id,size,remote,note
+2026-11-16 13:59:50.894,1794830390894,PACKET,SEND,JOIN,1,1,12,127.0.0.1:9000,
+2026-11-16 13:59:51.395,1794830391395,PACKET,SEND,JOIN,1,1,12,127.0.0.1:9000,retransmit #1
+2026-11-16 13:59:51.900,1794830391900,PACKET,SEND,JOIN,1,1,12,127.0.0.1:9000,retransmit #2
+2026-11-16 13:59:52.408,1794830392408,PACKET,SEND,JOIN,1,1,12,127.0.0.1:9000,retransmit #3
+2026-11-16 13:59:52.916,1794830392916,PACKET,SEND,JOIN,1,1,12,127.0.0.1:9000,retransmit #4
+2026-11-16 13:59:53.435,1794830393435,EVENT,,,,,,,"finished: {'peer_id': 1, 'complete': False, 'map_verified': False, 'chunks_received': 0, 'completion_time_ms': None, 'join_time_ms': None, 'mean_rtt_ms': None, 'requests_sent': 0, 'retransmits': 0, 'timeouts': 5, 'duplicates': 0, 'hash_failures': 0, 'malformed': 0, 'bytes_sent': 60, 'bytes_received': 0}"

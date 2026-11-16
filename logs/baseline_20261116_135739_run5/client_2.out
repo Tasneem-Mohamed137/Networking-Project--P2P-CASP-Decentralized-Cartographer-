@@ -1,0 +1,2 @@
+[client 2] joined; peers known: [1, 2, 3, 4]
+[client 2] DONE: 256/256 chunks in 41 ms, map verified: True, retransmits: 0, duplicates: 0

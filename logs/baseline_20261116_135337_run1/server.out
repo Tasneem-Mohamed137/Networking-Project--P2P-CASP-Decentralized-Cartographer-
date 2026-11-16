@@ -1,0 +1,5 @@
+[server] P2P-CASP v1 listening on 127.0.0.1:9000 (throttle: 50 kbps)
+[server] peer 3 registered from 127.0.0.1:62082 (1 peers known)
+[server] peer 2 registered from 127.0.0.1:62083 (2 peers known)
+[server] peer 1 registered from 127.0.0.1:62084 (3 peers known)
+[server] peer 4 registered from 127.0.0.1:62085 (4 peers known)

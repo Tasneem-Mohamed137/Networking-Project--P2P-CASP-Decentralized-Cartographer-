@@ -1,0 +1,5 @@
+run,peer_id,complete,map_verified,completion_time_ms,mean_rtt_ms,requests_sent,retransmits,timeouts,duplicates,hash_failures
+4,1,True,True,51.8,0.191,256,0,0,0,0
+4,2,True,True,74.91,0.289,256,0,0,0,0
+4,3,True,True,74.11,0.277,256,0,0,0,0
+4,4,True,True,74.59,0.285,256,0,0,0,0

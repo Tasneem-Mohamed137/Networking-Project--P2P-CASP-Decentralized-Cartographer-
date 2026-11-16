@@ -1,0 +1,2 @@
+time_iso,epoch_ms,event,direction,msg_type,seq,peer_id,size,remote,note
+2026-11-16 14:00:33.871,1794830433871,EVENT,,,,,,127.0.0.1:51703,dropped malformed packet (3 bytes): packet too short
